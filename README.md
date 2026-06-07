@@ -149,9 +149,3 @@ B.Tech – Artificial Intelligence & Machine Learning
 
 ### Thanks for visiting my profile! 🚀
 ---
-
-## GitHub Stats
-
-![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohandudeja10&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohandudeja10&layout=compact)
