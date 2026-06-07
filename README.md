@@ -155,7 +155,7 @@ Graduating: 2026
 
 📧 Email: [rohann.dudeja1@gmail.com](mailto:rohann.dudeja1@gmail.com)
 
-💼 LinkedIn: https://www.linkedin.com/in/rohan-dudeja
+💼 LinkedIn: https://www.linkedin.com/in/rohandudeja10
 
 🐙 GitHub: https://github.com/rohandudeja10
 
